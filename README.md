@@ -9,5 +9,7 @@ password: flash2005 -->
 
 Note- make sure you are getting past the intro. Click on the small pin-up girl.
 
+See the game [here][swf]
 
+[swf]: https://pinup.mconnor.now.sh/
 [mailto]: mailto:mike@cloudswing.info
